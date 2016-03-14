@@ -2,7 +2,7 @@ body {
   background: black;
 }
 
-div.image {
+div.image.logo {
   text-align: center;
   padding: 150px;
 }
