@@ -12,7 +12,7 @@ h3 {
 }
 
 .icon {
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: 0;
 }
