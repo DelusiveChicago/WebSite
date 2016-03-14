@@ -9,7 +9,7 @@ div.image {
 
 div.comingsoon {
   color: white;
-  font: 15px arial, sans-serif;
+  font-family: arial;
   text-align: center;
   
 }
