@@ -3,7 +3,8 @@ body {
 }
 
 div.image {
-  float: center;
+  text-align: center;
+  padding: 150px;
 }
 
 h3 {
