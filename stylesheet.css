@@ -2,14 +2,13 @@ body {
   background: black;
 }
 
-h4 {
-  color: white;
-  text-align: center;
-  
-}
-
 div.image {
   text-align: center;
   padding: 150px;
+}
+
+h3 {
+  color: white;
+  text-align: center;
 }
 
