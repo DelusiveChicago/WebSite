@@ -2,6 +2,10 @@ body {
   background: black;
 }
 
+.icon {
+  float: right;
+}
+
 div.image {
   text-align: center;
 }
@@ -15,10 +19,6 @@ h3 {
 	font-weight: 500;
 	line-height: 20.4px;
   text-align: center;
-}
-
-.icon {
-  float: right;
 }
 
 
